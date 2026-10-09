@@ -31,3 +31,6 @@ private_key_pem.php
 Thumbs.db
 desktop.ini
 .DS_Store
+
+# --- 効果音データ本体(Base64入りで巨大。形式は assets/soundProducts/README.md) ---
+assets/soundProducts/data.json
